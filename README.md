@@ -9,7 +9,7 @@ This repository contains a set of experiments to display information on a [Waves
 ## Features
 
 - **Home Assistant Integration**: Display data from Home Assistant entities, with updates pushed to the e-ink display.
-- **Random Tarot Cards**: Select and display a random tarot card, with the option to navigate to its meaning using the hardware buttons. (_I have actually no idea about tarot, the meanings were generated with chat-gpt and are actually in german_)
+- **Random Tarot Cards**: Select and display a random tarot card, with the option to navigate to its meaning using the hardware buttons. (_I have actually no idea about tarot, the meanings were generated with chat-gpt and are in german_)
 - **Twitch Chat Display**: Show live chat from a configured Twitch channel directly on the e-ink display.
 
 ## Requirements
