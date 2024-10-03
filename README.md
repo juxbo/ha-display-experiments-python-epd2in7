@@ -33,7 +33,7 @@ This repository contains a set of experiments to display information on a [Waves
 
 4. Configure Home Assistant and Twitch API credentials in a `.env` files as needed.
 
-5. Unpack the images.zip using `this-is-a-deck-78`. Make sure the output files are not in a subfolder, but directly in `/cards`
+5. Unpack the cards.zip using `this-is-a-deck-78`. Make sure the output files are in the `/cards` subfolder.
 
 6. Connect your Waveshare e-ink display and hardware buttons to your Raspberry Pi or similar device.
 

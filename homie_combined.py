@@ -61,7 +61,7 @@ rooms_state = {
 charsPerLine = 22
 defaultBounce = 0.05
 prob = 90
-tarotbasedir = basedir + '/images/'
+tarotbasedir = basedir + '/cards/'
 sleep_minutes = 5
 now = datetime.now()
 

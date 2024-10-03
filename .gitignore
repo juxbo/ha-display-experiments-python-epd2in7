@@ -172,3 +172,4 @@ icons
 rpi_epd2in7
 rpi_epd2in7.*
 *.log
+/cards/*.jpg
