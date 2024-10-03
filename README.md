@@ -2,6 +2,8 @@
 
 _Disclaimer:_ This is not a polished project, just a bunch of experiments, so code quality may be a bit of a mess. Please only run this if you know what you're doing!
 
+![demo image](img/demo.png)
+
 This repository contains a set of experiments to display information on a [Waveshare 2.7-inch e-ink display](https://www.waveshare.com/wiki/2.7inch_e-Paper_HAT) using Python. The display interfaces with Home Assistant via a REST API, and the hardware buttons are used to interact with the display, such as navigating through content or selecting options.
 
 ## Features
