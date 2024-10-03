@@ -32,7 +32,7 @@ This repository contains a set of experiments to display information on a [Waves
 
 3. Install the [rpi_epd2in7 library](https://github.com/elad661/rpi_epd2in7) for controlling the Waveshare display (follow its readme)
 
-4. Configure Home Assistant and Twitch API credentials in a `.env` files as needed.
+4. Configure Home Assistant and Twitch API credentials in a `.env` file as needed.
 
 5. Unpack the cards.zip using `this-is-a-deck-78`. Make sure the output files are in the `/cards` subfolder.
 
