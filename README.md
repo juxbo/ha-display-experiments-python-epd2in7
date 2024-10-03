@@ -18,8 +18,7 @@ This repository contains a set of experiments to display information on a [Waves
 - Python 3.x
 - [rpi_epd2in7 library](https://github.com/elad661/rpi_epd2in7) for controlling the Waveshare display
 - Home Assistant REST API
-- Twitch API (for chat integration)
-- Hardware buttons for interaction
+- Twitch API Token (if you want to try the chat integration)
 
 ## Setup
 
