@@ -1,6 +1,6 @@
 # Python experiments with waveshare 2.7 inch eink-display
 
-_Disclaimer:_ This is not a polished project, just a bunch of experiments, so code quality may be a bit of a mess. Please only run this if you know what you're doing!
+_Disclaimer:_ This is not a polished project, but instead just a bunch of experiments. Thus, code quality may be a bit of a mess. Please only run this if you know what you're doing!
 
 ![demo image](img/demo.png)
 
